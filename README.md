@@ -91,9 +91,3 @@ The scheme matching is based on the user information and the scheme data availab
 OpenRouter LLM is used to classify matched schemes and provide explanations and additional conditions that may need verification.
 
 Final scheme eligibility should be verified using the applicable official government scheme guidelines and portals.
-
-The scheme matching is based on the user information and the scheme data available in schemes.json.
-
-OpenRouter LLM is used to classify matched schemes and provide explanations and additional conditions that may need verification.
-
-Final scheme eligibility should be verified using the applicable official government scheme guidelines and portals.
